@@ -1,0 +1,311 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+.navbar{
+     display: flex;
+     margin-left:140px;
+     margin-top: 24px;
+}
+ul{
+     display: flex;
+     list-style: none;
+     align-items: center;
+     margin-left: 323px;
+     gap: 60px;
+}
+.navbar-btn{
+     margin-left: 36px;
+}
+.socielity{
+     font-size: 36px;
+     color: #4579CB;
+}
+.ul{
+     font-size: 16px;
+}
+.navbar-btn{
+     padding: 13px 34px;
+     font-size: 16px;
+     color: white;
+     background-color: #4579CB;
+     border: none;
+     border-radius: 8px;
+}
+.blue{
+     color: #4579CB;
+}
+.your{
+     width: 1046px;
+     height: 234px;
+     font-size: 56px;
+     text-align: center;
+     margin-left: 196px;
+     margin-top: 139px;
+}
+.p1{
+     width: 828px;
+     font-size: 16px;
+     margin-left: 305px;
+     text-align: center;
+     margin-top: 38px;
+     line-height: 24px;
+}
+.navbar-btn2{
+     padding: 13px 34px;
+     font-size: 16px;
+     color: white;
+     background-color: #4579CB;
+     border: none;
+     border-radius: 8px;
+     margin-left: 634px;
+     margin-top: 38px;
+}
+.vektor{
+     display: flex;
+     gap: 11.1px;
+     margin-left: 651px;
+     margin-top: 26px;
+}
+.vektor-img{
+     width: 22.9px;
+     16px
+}
+.vektor p{
+     font-size: 14px;
+}
+.h3{
+     margin-top: 114px;
+     margin-left: 654px;
+}
+.p2{
+     width: 875px;
+     font-size: 16px;
+     margin-left: 280px;
+     text-align: center;
+     margin-top: 20px;
+     line-height: 24px;
+}
+.logo {
+     margin-top: 46px;
+     display: flex;
+}
+.odam{
+     margin-left: 187.59px;
+     margin-top: 114px;
+     display: flex;
+     align-items: center;
+}
+.odam img{
+     width: 456.41px;
+     height: 437.3px;
+}
+.odam-text{
+     width: 558px;
+     margin-left: 90px;
+}
+.odam-text h2{
+     color: #474747;
+     font-size: 26px;
+     line-height: 48px;
+}
+.odam-text p{
+     line-height: 24px;
+     font-size: 16px;
+     color: #666666;
+     width: 527px;
+     margin-top: 24px;
+}
+.navbar-btn3{
+     padding: 13px 34px;
+     font-size: 16px;
+     color: white;
+     background-color: #4579CB;
+     border: none;
+     border-radius: 8px;
+     margin-top: 30px;
+}
+.odam2{
+     margin-left: 134px;
+     margin-top: 120px;
+     display: flex;
+     align-items: center;
+
+}
+.odam2-text{
+     width: 558px;
+     align-items: center;
+}
+.odam2-text h2{
+     font-size: 26px;
+     line-height: 48px;
+}
+.odam2-text p{
+     font-size: 16px;
+     line-height: 24px;
+     width: 527px;
+     margin-top: 24px;
+}
+.navbar-btn4{
+     padding: 13px 34px;
+     font-size: 16px;
+     color: white;
+     background-color: #4579CB;
+     border: none;
+     border-radius: 8px;
+     margin-top: 30px;
+}
+.odam2 img{
+     width: 456.55px;
+     height: 384px;
+     margin-left: 60.82px;
+}
+.odam3{
+     margin-left: 66px;
+     display: flex;
+     margin-top: 120px;
+     align-items: center;
+}
+.odam3 img{
+     width: 615px;
+     height: 423px;
+}
+.odam3-text{
+     width: 558px;
+     align-items: center;
+     margin-left: 53px;
+}
+.odam3-text h2{
+     font-size: 26px;
+     line-height: 48px;
+}
+.odam3-text p{
+     font-size: 16px;
+     line-height: 24px;
+     width: 527px;
+     margin-top: 24px;
+}
+.navbar-btn5{
+     padding: 13px 34px;
+     font-size: 16px;
+     color: white;
+     background-color: #4579CB;
+     border: none;
+     border-radius: 8px;
+     margin-top: 30px;
+}
+.Why{
+     font-size: 26px;
+     color: #474747;
+     line-height: 48px;
+     text-align: center;
+     margin-left: 522px;
+     width: 397px;
+     margin-top: 120px;
+}
+.welcome{
+     font-size: 16px;
+     line-height: 24px;
+     color: #666666;
+     text-align: center;
+     margin-left: 349px;
+     width: 743px;
+     margin-top: 24px;
+}
+.group{
+     margin-left: 134px;
+     margin-top: 51px;
+     width: 1170px;
+     height: 267px;
+}
+.odam4{
+     display: flex;
+     text-align: center;
+     align-items: center;
+}
+.odam4 img{
+     width: 470px;
+     height: 420px;
+     margin-left: 122.58px;
+     margin-top: 120px;
+}
+.odam4 h3{
+     font-size: 16px;
+     line-height: 24px;
+     margin-left: 125px;
+}
+.managing{
+     font-size: 14px;
+     margin-left: 125px;
+     margin-top: 4px;
+
+}
+.odam4 p{
+     font-size: 20px;
+     line-height: 28px;
+     width: 547px;
+     margin-left: 110px;
+     margin-top: 19px;
+}
+.odam4 button{
+     padding: 13px 27px;
+     font-size: 16px;
+     color: white;
+     border: none;
+     background-color: #4579CB;
+     margin-top: 34px;
+     margin-left: 110px;
+     
+}
+.video{
+     margin-top: 120.35px;
+     margin-left: 135px;
+     width: 1169px;
+     height: 514px;
+}
+.faq{
+     margin-left:135px ;
+     margin-top:120px;
+     width: 1170px;
+     height: 555px;
+}
+.award{
+     margin-left: 36px;
+     margin-top: 120px;
+     width: 1370px;
+     height: 456px;
+
+}
+.subscribe{
+     margin-left: 469px;
+     margin-top: 120px;
+     font-size: 26px;
+     line-height: 48px;
+}
+.offers{
+     font-size: 16px;
+     line-height: 24px;
+     margin-top: 24px;
+     margin-left: 335px;
+     margin-right: 335px;
+     width: 770px;
+     text-align: center;
+}
+.btnn{
+     width: 770px;
+     height: 80px;
+     background-color: #E6E6E6;
+     margin-left: 335px;
+     border-radius: 16px;
+     margin-top: 33px;
+     margin-bottom: 15px;
+
+}
+.Subscribe{
+     margin-top: 120px;
+     margin-left:335px ;
+}
+.footer{
+     margin-top: 80px;
+}
